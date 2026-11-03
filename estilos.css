@@ -1,0 +1,40 @@
+body {
+	background-color: #151515;
+	color: white;
+	front-family: Arial, sans-serif;
+	margin: 30px;
+}
+
+h1{
+	color: #b22222;
+	front-family: Georgia, serif;
+	text-align: center;
+}
+
+h2{
+	color: #d9d9d9;
+	front-family: Georgia, serif;
+}
+
+p{
+	front-size: 16px;
+	line-height: 1.6;
+}
+
+.destaque{
+	background-color: #333333;
+	color: white;
+	margin: 20px;
+	padding: 15px;
+}
+
+/*
+1.Desafio Técnico:
+A parte mais difícil foi aplicar a classe .destaque aoparágrafo e perceber como funcionavam as suas propriedades. Consegui ultrapassar essa didiculdade ao rever o código e testar o resultado no browser.
+
+2.Correção de Sintaxe:
+O erro que detetei foi no endereço da hiperligação: escervi a letra L em vez do número 1. Corrigi o endereço e a hiperligção começou a funcionar. 
+
+3.Autoria
+O atributo href serve para indicar o endereço da página para onde a hiperligação nos lea.
+*/
